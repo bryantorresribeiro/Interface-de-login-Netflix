@@ -1,10 +1,8 @@
-# Visualização:
+# Desktop:
 
-### Mobile:
+![Exemplo Box](https://github.com/bryantorresribeiro/Interface-de-login-Netflix/blob/master/img/netflixdesktop.png)
 
-![Exemplo Box](https://files-kenzie-academy-brasil.s3.us-east-1.amazonaws.com/q1/sprint2/streaming_plataform_mobile.png)
+# Mobile:
 
-#### Desktop:
-
-![Exemplo Box](https://files-kenzie-academy-brasil.s3.us-east-1.amazonaws.com/q1/sprint2/streaming_plataform_desktop.png)
+![Exemplo Box](https://github.com/bryantorresribeiro/Interface-de-login-Netflix/blob/master/img/netflixmobile.png)
 
